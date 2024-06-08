@@ -1,0 +1,49 @@
+
+=========================================================================
+
+함수
+
+수학함수
+import 모듈명
+from 모듈명 import 함수명
+from 모듈명 import 함수명 as 약어
+
+import math
+import random
+
+a = random.random()
+print(a)
+# 랜덤 함수는 0.0과 1.0사이의 임의의 부동 소수점을 반환 (0.0은 포함하지만 1.0은 포함하지 않는다.)
+
+b = random.randint(0,10)
+print(b)
+# randint 함수는 ()가로 안에 사이에 랜덤한 수를 가지고 온다.(0과 10도 포함)
+
+c = [1, 5, 10]
+print(random.choice(c))
+# 리스트에서 요소를 무작위로 선택
+
+
+사용자 정의 함수 
+def 함수이름(매개변수1, 매개변수2):
+    문장1
+    .....
+    return 결과값
+
+def print_python():
+    print("python")
+
+print_python()
+
+응용해서 2개의 수를 입력받아더 큰수를 출력하는 함수를 만들어 보자
+def max(num1, num2):
+    if num1>num2:   
+        return num1
+    else:
+        return num2
+    
+a = int(input("첫번째 수를 입력하세요: ")) 
+b = int(input("두번째 수를 입력하세요: "))
+print(max(a, b))
+
+=========================================================
