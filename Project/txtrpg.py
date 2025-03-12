@@ -1,4 +1,7 @@
+## 텍스트 형식의 게임 만들기 예제
+
 import random
+
 
 player_health = 100  # 플레이어 체력
 player_money = 0  # 플레이어 돈
