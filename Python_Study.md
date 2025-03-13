@@ -4,15 +4,15 @@
 
 ### 목차
 
-1. [자료형](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-2. [수식연산자](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-3. [논리연산자](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-4. [파이썬 입출력](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-5. [인덱싱, 슬라이싱](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-6. [조건문](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-7. [반복문](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-8. [컬렉션 자료형](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
-9. [함수](https://www.notion.so/Python-78aba25cae3b446dace073a8dec18fc1?pvs=21)
+1. [자료형]
+2. [수식연산자]
+3. [논리연산자]
+4. [파이썬 입출력]
+5. [인덱싱, 슬라이싱]
+6. [조건문]
+7. [반복문]
+8. [컬렉션 자료형]
+9. [함수]
 
 ---
 
